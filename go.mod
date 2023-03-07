@@ -27,10 +27,10 @@ require (
 	go.mozilla.org/pkcs7 v0.0.0-20210826202110-33d05740a352
 	go.step.sm/crypto v0.11.0
 	go.step.sm/linkedca v0.5.0
-	golang.org/x/crypto v0.0.0-20210915214749-c084706c2272
-	golang.org/x/net v0.0.0-20210913180222-943fd674d43e
-	golang.org/x/sys v0.0.0-20210915083310-ed5796bab164
-	golang.org/x/term v0.0.0-20210503060354-a79de5458b56
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.7.0
+	golang.org/x/sys v0.5.0
+	golang.org/x/term v0.5.0
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/square/go-jose.v2 v2.6.0
 	software.sslmate.com/src/go-pkcs12 v0.0.0-20201103104416-57fc603b7f52
